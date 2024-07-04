@@ -1,16 +1,4 @@
-# SE2-SPRING-BOOK-STORE
-## Group 1:
-<ul>
-    <li>Đỗ Trí Trung  - 2001040212</li>
-    <li>Chu Quang Huy  - 2001040095</li>
-    <li>Vũ Thị Thảo - 2001040191</li>
-    <li>Trần Mạnh Trinh - 1901040229</li>
-    <li>Lưu Thị Dung - 2001040043</li>
- <li>Nguyễn Thị Tú Quyên - 2001040178 </li>
-</ul>
 
-## All Documents and Diagrams can be accessed through:
-https://drive.google.com/drive/folders/1wsJNEcNdCb6xfQuS_aJq-MitH5SMMNdR?usp=drive_link
 ## SPRING-BOOK-STORE SYSTEM
 <pre>
 IMPORTANT: 
