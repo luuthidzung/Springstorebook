@@ -1,5 +1,4 @@
 # Springstorebook
-## SPRING-BOOK-STORE SYSTEM
 #### IMPORTANT: 
 To run the website, the developer should go to MySQL and create a schema (database),
 Then, from the MySQL, please import database's structure and data from the following folder
